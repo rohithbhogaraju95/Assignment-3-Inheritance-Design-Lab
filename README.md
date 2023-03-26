@@ -11,3 +11,12 @@ The Doctor class is a subclass of HospitalEmployee that includes additional info
 The Surgeon class is a subclass of Doctor that includes a boolean value indicating whether the surgeon is currently operating, as well as isOperating, setOperating, toString, and work methods.
 
 The Nurse class is a subclass of HospitalEmployee that includes the number of patients the nurse is currently responsible for, as well as getNumOfPatients, setNumOfPatients, toString, and work methods.
+
+Part 2:
+In bin folder, you will able to find the class files and the src folder contains all java files which has the code. Below tests are performed
+Junittesting
+square
+Divide
+Count
+AllTests
+Part 3: 
