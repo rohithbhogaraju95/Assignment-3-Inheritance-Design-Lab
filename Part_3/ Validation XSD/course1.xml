@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Course xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="course.xsd">
+   <Subject>
+      <Instructor>Kevin</Instructor>
+      <Title>Math</Title>
+   </Subject>
+   <Subject>
+      <Instructor>Lewis</Instructor>
+      <Title>Computer Science</Title>
+   </Subject>
+</Course>
