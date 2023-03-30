@@ -12,4 +12,4 @@ Count
 AllTests
 
 Part 3: 
-DomperserDTD and Domparserschema are performed 
+Part 3 has two folders: 'Validation_xsd' and 'Validation_DTD'. 'Validation_xsd' contains XML, XSD, and a Validator Java class file to validate the XML and XSD documents. 'Validation_DTD' contains XML, DTD, and a Java class file to validate the XML and DTD documents. If the flag is true, it means successful validation against the XSD or DTD document.
